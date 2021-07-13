@@ -1,0 +1,27 @@
+a. Pensamento Computacional
+
+R: Pode ser definida como uma estratégia usada para projetar soluções 
+e resolver problemas de forma eficaz com base na tecnologia na
+ordem matemática ou não.
+ Trata-se de uma habilidade que vai ajudar crianças e adolescentes em 
+todas as áreas do conhecimento e também prepará-los para o futuro, não importa 
+a área que ela for seguir.
+
+b. Algoritimos
+
+R: É o pensamento que engloba todos os pilares que formam o pensamento computacional, 
+pois é o processo de criação de um conjunto de regras para a resolução do problema.
+
+c. Progamação
+
+R: é o processo de criação de um conjunto de instruções que dizem ao computador 
+como realizar uma tarefa. são compostos por conjuntos de instruções 
+determinados pelo programador que descrevem tarefas a serem realizadas pela 
+máquina e atendem diversas finalidades
+
+d. Modularização com uso de Funções
+
+R: Pode-se dividir várias partes do sistema em partes menores que possuem tarefas
+específicas.
+ O uso deste recurso traz varias vantagens como por exemplo a reutilização
+do código,  a facilidade de manutenção e etc.
